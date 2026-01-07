@@ -75,7 +75,6 @@ const badgeStyle = computed(() => ({
       <h2 class="text-lg font-bold mb-2">
         {{ formatName(pokemon.name) }}
       </h2>
-      const badgeStyle = computed(() => ({
 
       <span
         class="inline-block mb-4 px-4 py-1 text-xs text-white rounded-full"
